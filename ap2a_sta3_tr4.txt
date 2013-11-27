@@ -1,0 +1,1 @@
+chomossome 	 position1 	 position2 	 position3 	 GenomeBrowser 	 mean 	 standart Devitation 	 genes in window
